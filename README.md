@@ -3,6 +3,8 @@
 LinkedIn: https://www.linkedin.com/in/maciejlozinski/
 e-mail: loziniak@o2.pl
 
+**Video demo:** https://share.robotix-lozinski.pl/index.php/s/LRzPgreYWaqp59z
+
 ## Voting.sol smart contract
 
 1.  Smart Contract: `Voting.sol`
